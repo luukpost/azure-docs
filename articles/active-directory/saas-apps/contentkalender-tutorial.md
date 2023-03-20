@@ -84,14 +84,12 @@ Follow these steps to enable Azure AD SSO in the Azure portal.
    | **Identifier** |
    |------------|
    | `https://login.contentkalender.nl` |
-   | `https://contentkalender-acc.bettywebblocks.com/` (only for testing purposes)|
 
    b. In the **Reply URL** text box, type one of the following URLs:
 
    | **Reply URL** |
    |-----------|
    | `https://login.contentkalender.nl/sso/saml/callback` |
-   | `https://contentkalender-acc.bettywebblocks.com/sso/saml/callback` (only for testing purposes)|
 
    c. In the **Sign-on URL** text box, type the URL:
    `https://login.contentkalender.nl/v2/login`
